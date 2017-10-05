@@ -1,5 +1,6 @@
 # ChaiRoom
-An application to search for and reserve available seats at cafes.
+An application to search for and reserve available seats at cafes. 
+(Part of CS160 Project)
 
 [Demo Video](https://youtu.be/dpr5sC4qbLk)
 ----------
